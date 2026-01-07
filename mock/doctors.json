@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "张华",
+    "title": "主任医师",
+    "department": "心内科",
+    "specialty": "冠心病介入、房颤射频消融",
+    "avatarUrl": "医生头像.jpg"
+  },
+  {
+    "id": 2,
+    "name": "李颖",
+    "title": "副主任医师",
+    "department": "神经内科",
+    "specialty": "脑卒中溶栓、眩晕诊疗",
+    "avatarUrl": "医生头像.jpg"
+  },
+  {
+    "id": 3,
+    "name": "王磊",
+    "title": "主任医师",
+    "department": "骨科",
+    "specialty": "关节镜、运动损伤微创治疗",
+    "avatarUrl": "医生头像.jpg"
+  },
+  {
+    "id": 4,
+    "name": "赵敏",
+    "title": "主治医师",
+    "department": "儿科",
+    "specialty": "儿童哮喘与过敏、发育评估",
+    "avatarUrl": "医生头像.jpg"
+  },
+  {
+    "id": 5,
+    "name": "周强",
+    "title": "主任医师",
+    "department": "妇产科",
+    "specialty": "高危妊娠管理、产前筛查",
+    "avatarUrl": "医生头像.jpg"
+  }
+]
